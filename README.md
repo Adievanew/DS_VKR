@@ -25,7 +25,7 @@ ROC-AUC
 Обучать модель и визуализировать показатели
 Вводить новые значения и получать прогноз
 📦 Установка и запуск
-git clone https://github.com/DobryninIlya/final_ds_course-work.git
+git clone https://github.com/Adievanew/DS_VKR.git
 cd predictive_maintenance_project
 pip install -r requirements.txt
 streamlit run app.py
